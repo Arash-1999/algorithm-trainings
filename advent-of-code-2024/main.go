@@ -5,6 +5,11 @@ import (
 )
 
 func main() {
-	days.D1p1()
-	days.D1p2()
+	// day 01
+	// days.D1p1()
+	// days.D1p2()
+
+	// day 02
+	days.D2p1()
+	days.D2p2()
 }
