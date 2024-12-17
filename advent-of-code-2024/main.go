@@ -10,6 +10,10 @@ func main() {
 	// days.D1p2()
 
 	// day 02
-	days.D2p1()
-	days.D2p2()
+	// days.D2p1()
+	// days.D2p2()
+
+	// day 03
+	days.D3p1()
+	days.D3p2()
 }
